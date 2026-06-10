@@ -58,7 +58,7 @@
 * **صفحة المشاريع (showcase)**
   ![Lockout Screen](screenshot/screenshot1.png)
 
-* **صفحة الـdocs (docs)**
+* **صفحة الـ (docs)**
   ![Lockout Screen](screenshot/screenshot2.png)
 
 ---
